@@ -11,7 +11,7 @@
  
  🔭 I’m currently **a computer science student**
  
- 🌱 I’m currently learning **Laravel and Wordpress(CMS)**
+ 🌱 I’m currently learning **Laravel and angular**
 
 💬 Ask me about **, React, java, php, mysql... or anything [here](https://github.com/youssefdhouib/-youssefdhouib/issues)**
 
