@@ -40,18 +40,6 @@
 
 <br/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-
-<br/>
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,angular,laravel,spring,nodejs,nestjs,bootstrap,mui,html,css,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,java,c,cpp,mysql,postgresql,mongodb,supabase" /><br>
-    <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma,postman,linux" /><br>
-</div>
-
-<br/>
-
 <h2 align="center">🧠 AI Engineering Focus</h2>
 
 <div align="center">
